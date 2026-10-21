@@ -8,7 +8,7 @@
   </p>
 </div>
 
-# Overview-
+# Overview
 
 Dusklight is a reverse-engineered reimplementation of Twilight Princess.
 
